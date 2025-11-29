@@ -1,0 +1,53 @@
+rss_sources:
+  fact_checking:
+    - name: "Alt News"
+      url: "https://www.altnews.in/feed/"
+      reliable: true
+    - name: "Boom Live"
+      url: "https://www.boomlive.in/feed/"
+      reliable: true
+    - name: "Vishvas News"
+      url: "https://www.vishvasnews.com/feed/"
+      reliable: true
+    
+
+  government:
+    - name: "Press Information Bureau (PIB) Main"
+      url: "https://www.pib.gov.in/RssMain.aspx"
+      reliable: true
+    - name: "PIB Press Releases"
+      url: "https://pib.gov.in/RSSFeed/PressReleaselist.aspx"
+      reliable: true
+    - name: "Ministry of External Affairs (MEA)"
+      url: "https://mea.gov.in/rss-feed.xml"
+      reliable: true
+    - name: "The Hindu National"
+      url: "https://www.thehindu.com/news/national/feeder/default.rss"
+      reliable: true
+    - name: "Indian Express India"
+      url: "https://indianexpress.com/section/india/feed/"
+      reliable: true
+
+  disaster_management:
+    - name: "ReliefWeb Disasters"
+      url: "https://reliefweb.int/disasters/rss.xml"
+      reliable: true
+    - name: "GDACS Global Alerts"
+      url: "https://www.gdacs.org/xml/rss.xml"
+      reliable: true
+
+  health:
+    - name: "WHO News English"
+      url: "https://www.who.int/rss-feeds/news-english.xml"
+      reliable: true
+    - name: "BBC Health"
+      url: "https://feeds.bbci.co.uk/news/health/rss.xml"
+      reliable: true
+
+  international_news:
+    - name: "BBC World"
+      url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+      reliable: true
+    - name: "The Guardian World"
+      url: "https://www.theguardian.com/world/rss"
+      reliable: true

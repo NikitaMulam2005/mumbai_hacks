@@ -1,0 +1,1034 @@
+[
+  {
+    "claim": "CBSE has postponed Class 10 and 12 board exams scheduled in February 2026",
+    "verdict": "UNVERIFIED",
+    "confidence": 0.3,
+    "rationale": "Final decision by Grok: UNVERIFIED | Groq error",
+    "category": "Education",
+    "evidence": [
+      {
+        "title": "Misreport by Zee News: Showing old video, channel claims Muslim doctors boycotted after Nov 10 Delhi bast",
+        "url": "https://www.altnews.in/zee-news-used-an-old-clipped-video-saying-hindu-boycotting-muslim-doctors-after-delhi-blast/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Attack against Muslims in India? No, viral video of woman collapsing is from Bangladesh",
+        "url": "https://www.altnews.in/attack-against-muslims-in-india-no-viral-video-of-woman-collapsing-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "‘Bangal khali ho raha hai’: Old video from Muslim religious gathering shared as Bangladeshis leaving amid SIR",
+        "url": "https://www.altnews.in/bangal-khali-ho-raha-hai-old-video-from-muslim-religious-gathering-shared-as-bangladeshis-leaving-amid-sir/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Lawrence Bishnoi released on bail? No, 2020 video shared falsely",
+        "url": "https://www.altnews.in/lawrence-bishnoi-released-on-bail-no-2020-video-shared-falsely/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Viral video of woman claiming she married her father-in-law is scripted",
+        "url": "https://www.altnews.in/viral-video-of-woman-claiming-she-married-her-father-in-law-is-scripted/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Gen Z march against ‘vote theft’? No, unrelated video from Jaipur shared with false claims",
+        "url": "https://www.altnews.in/gen-z-march-against-vote-theft-no-unrelated-video-from-jaipur-shared-with-false-claims/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Exodus of illegal Bangladeshis from Bengal? No, viral video shows Kali idol immersion crowd in border village",
+        "url": "https://www.altnews.in/exodus-of-illegal-bangladeshis-from-bengal-no-viral-video-shows-kali-idol-immersion-crowd-in-border-village/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Viral video of South Africa’s Temba Bavuma responding to Bumrah’s ‘bauna’ jibe is AI-generated",
+        "url": "https://www.altnews.in/viral-video-of-south-africas-temba-bavuma-responding-to-bumrahs-bauna-jibe-is-ai-generated/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Protests in Bihar over ‘vote theft’? Zubeen Garg’s funeral procession video falsely viral",
+        "url": "https://www.altnews.in/video-of-singer-zubeen-garg-funeral-procession-shared-as-people-protest-after-bihar-poll-results/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Illegal immigrants leaving Bengal? No, viral ferry ghat video is from Bangladesh",
+        "url": "https://www.altnews.in/illegal-immigrants-leaving-bengal-no-viral-ferry-ghat-video-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      }
+    ],
+    "sources_count": 20,
+    "consistency_score": 0.95,
+    "verified_at": "2025-11-29T01:27:00Z",
+    "verified_by": "TruthPulse Engine v2",
+    "id": 1,
+    "original_claim": "CBSE has postponed Class 10 and 12 board exams scheduled in February 2026",
+    "saved_at": "2025-11-29T01:27:00.676378Z"
+  },
+  {
+    "claim": "CBSE has postponed Class 10 and 12 board exams scheduled in February 2026",
+    "verdict": "FALSE",
+    "confidence": 0.97,
+    "rationale": "Final decision by Grok: FALSE | No credible source confirms the postponement of CBSE Class 10 and 12 board exams.",
+    "category": "Education",
+    "evidence": [
+      {
+        "title": "Misreport by Zee News: Showing old video, channel claims Muslim doctors boycotted after Nov 10 Delhi bast",
+        "url": "https://www.altnews.in/zee-news-used-an-old-clipped-video-saying-hindu-boycotting-muslim-doctors-after-delhi-blast/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Attack against Muslims in India? No, viral video of woman collapsing is from Bangladesh",
+        "url": "https://www.altnews.in/attack-against-muslims-in-india-no-viral-video-of-woman-collapsing-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "‘Bangal khali ho raha hai’: Old video from Muslim religious gathering shared as Bangladeshis leaving amid SIR",
+        "url": "https://www.altnews.in/bangal-khali-ho-raha-hai-old-video-from-muslim-religious-gathering-shared-as-bangladeshis-leaving-amid-sir/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Lawrence Bishnoi released on bail? No, 2020 video shared falsely",
+        "url": "https://www.altnews.in/lawrence-bishnoi-released-on-bail-no-2020-video-shared-falsely/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Viral video of woman claiming she married her father-in-law is scripted",
+        "url": "https://www.altnews.in/viral-video-of-woman-claiming-she-married-her-father-in-law-is-scripted/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Gen Z march against ‘vote theft’? No, unrelated video from Jaipur shared with false claims",
+        "url": "https://www.altnews.in/gen-z-march-against-vote-theft-no-unrelated-video-from-jaipur-shared-with-false-claims/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Exodus of illegal Bangladeshis from Bengal? No, viral video shows Kali idol immersion crowd in border village",
+        "url": "https://www.altnews.in/exodus-of-illegal-bangladeshis-from-bengal-no-viral-video-shows-kali-idol-immersion-crowd-in-border-village/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Viral video of South Africa’s Temba Bavuma responding to Bumrah’s ‘bauna’ jibe is AI-generated",
+        "url": "https://www.altnews.in/viral-video-of-south-africas-temba-bavuma-responding-to-bumrahs-bauna-jibe-is-ai-generated/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Protests in Bihar over ‘vote theft’? Zubeen Garg’s funeral procession video falsely viral",
+        "url": "https://www.altnews.in/video-of-singer-zubeen-garg-funeral-procession-shared-as-people-protest-after-bihar-poll-results/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Illegal immigrants leaving Bengal? No, viral ferry ghat video is from Bangladesh",
+        "url": "https://www.altnews.in/illegal-immigrants-leaving-bengal-no-viral-ferry-ghat-video-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      }
+    ],
+    "sources_count": 20,
+    "consistency_score": 0.95,
+    "verified_at": "2025-11-29T01:28:49Z",
+    "verified_by": "TruthPulse Engine v2",
+    "id": 2,
+    "original_claim": "CBSE has postponed Class 10 and 12 board exams scheduled in February 2026",
+    "saved_at": "2025-11-29T01:28:49.275573Z"
+  },
+  {
+    "claim": "Delhi government has announced winter vacation for schools from January 1 to January 15, 2026",
+    "verdict": "FALSE",
+    "confidence": 0.95,
+    "rationale": "Final decision by Grok: FALSE | No credible source confirms the Delhi government's announcement of winter vacation for schools from January 1 to January 15, 2026.",
+    "category": "Education",
+    "evidence": [
+      {
+        "title": "Misreport by Zee News: Showing old video, channel claims Muslim doctors boycotted after Nov 10 Delhi bast",
+        "url": "https://www.altnews.in/zee-news-used-an-old-clipped-video-saying-hindu-boycotting-muslim-doctors-after-delhi-blast/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Attack against Muslims in India? No, viral video of woman collapsing is from Bangladesh",
+        "url": "https://www.altnews.in/attack-against-muslims-in-india-no-viral-video-of-woman-collapsing-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "‘Bangal khali ho raha hai’: Old video from Muslim religious gathering shared as Bangladeshis leaving amid SIR",
+        "url": "https://www.altnews.in/bangal-khali-ho-raha-hai-old-video-from-muslim-religious-gathering-shared-as-bangladeshis-leaving-amid-sir/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Lawrence Bishnoi released on bail? No, 2020 video shared falsely",
+        "url": "https://www.altnews.in/lawrence-bishnoi-released-on-bail-no-2020-video-shared-falsely/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Viral video of woman claiming she married her father-in-law is scripted",
+        "url": "https://www.altnews.in/viral-video-of-woman-claiming-she-married-her-father-in-law-is-scripted/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Gen Z march against ‘vote theft’? No, unrelated video from Jaipur shared with false claims",
+        "url": "https://www.altnews.in/gen-z-march-against-vote-theft-no-unrelated-video-from-jaipur-shared-with-false-claims/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Exodus of illegal Bangladeshis from Bengal? No, viral video shows Kali idol immersion crowd in border village",
+        "url": "https://www.altnews.in/exodus-of-illegal-bangladeshis-from-bengal-no-viral-video-shows-kali-idol-immersion-crowd-in-border-village/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Viral video of South Africa’s Temba Bavuma responding to Bumrah’s ‘bauna’ jibe is AI-generated",
+        "url": "https://www.altnews.in/viral-video-of-south-africas-temba-bavuma-responding-to-bumrahs-bauna-jibe-is-ai-generated/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Protests in Bihar over ‘vote theft’? Zubeen Garg’s funeral procession video falsely viral",
+        "url": "https://www.altnews.in/video-of-singer-zubeen-garg-funeral-procession-shared-as-people-protest-after-bihar-poll-results/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      },
+      {
+        "title": "Illegal immigrants leaving Bengal? No, viral ferry ghat video is from Bangladesh",
+        "url": "https://www.altnews.in/illegal-immigrants-leaving-bengal-no-viral-ferry-ghat-video-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": null,
+        "similarity": null
+      }
+    ],
+    "sources_count": 20,
+    "consistency_score": 0.95,
+    "verified_at": "2025-11-29T01:30:36Z",
+    "verified_by": "TruthPulse Engine v2",
+    "id": 3,
+    "original_claim": "Delhi government has announced winter vacation for schools from January 1 to January 15, 2026",
+    "saved_at": "2025-11-29T01:30:36.960822Z"
+  },
+  {
+    "claim": "Delhi winter vacation from January 1 to 15, 2026",
+    "verdict": "FALSE",
+    "confidence": 0.99,
+    "rationale": "No credible source confirms Delhi winter vacation from January 1 to 15, 2026.",
+    "category": "General",
+    "evidence": [
+      {
+        "title": "Misreport by Zee News: Showing old video, channel claims Muslim doctors boycotted after Nov 10 Delhi bast",
+        "url": "https://www.altnews.in/zee-news-used-an-old-clipped-video-saying-hindu-boycotting-muslim-doctors-after-delhi-blast/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:05:36.287045",
+        "similarity": null
+      },
+      {
+        "title": "Attack against Muslims in India? No, viral video of woman collapsing is from Bangladesh",
+        "url": "https://www.altnews.in/attack-against-muslims-in-india-no-viral-video-of-woman-collapsing-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:05:36.287045",
+        "similarity": null
+      },
+      {
+        "title": "‘Bangal khali ho raha hai’: Old video from Muslim religious gathering shared as Bangladeshis leaving amid SIR",
+        "url": "https://www.altnews.in/bangal-khali-ho-raha-hai-old-video-from-muslim-religious-gathering-shared-as-bangladeshis-leaving-amid-sir/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:05:36.287045",
+        "similarity": null
+      },
+      {
+        "title": "Lawrence Bishnoi released on bail? No, 2020 video shared falsely",
+        "url": "https://www.altnews.in/lawrence-bishnoi-released-on-bail-no-2020-video-shared-falsely/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:05:36.287045",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of woman claiming she married her father-in-law is scripted",
+        "url": "https://www.altnews.in/viral-video-of-woman-claiming-she-married-her-father-in-law-is-scripted/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:05:36.287045",
+        "similarity": null
+      },
+      {
+        "title": "Gen Z march against ‘vote theft’? No, unrelated video from Jaipur shared with false claims",
+        "url": "https://www.altnews.in/gen-z-march-against-vote-theft-no-unrelated-video-from-jaipur-shared-with-false-claims/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:05:36.287045",
+        "similarity": null
+      },
+      {
+        "title": "Exodus of illegal Bangladeshis from Bengal? No, viral video shows Kali idol immersion crowd in border village",
+        "url": "https://www.altnews.in/exodus-of-illegal-bangladeshis-from-bengal-no-viral-video-shows-kali-idol-immersion-crowd-in-border-village/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:05:36.287045",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of South Africa’s Temba Bavuma responding to Bumrah’s ‘bauna’ jibe is AI-generated",
+        "url": "https://www.altnews.in/viral-video-of-south-africas-temba-bavuma-responding-to-bumrahs-bauna-jibe-is-ai-generated/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:05:36.287045",
+        "similarity": null
+      },
+      {
+        "title": "Protests in Bihar over ‘vote theft’? Zubeen Garg’s funeral procession video falsely viral",
+        "url": "https://www.altnews.in/video-of-singer-zubeen-garg-funeral-procession-shared-as-people-protest-after-bihar-poll-results/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:05:36.287045",
+        "similarity": null
+      },
+      {
+        "title": "Illegal immigrants leaving Bengal? No, viral ferry ghat video is from Bangladesh",
+        "url": "https://www.altnews.in/illegal-immigrants-leaving-bengal-no-viral-ferry-ghat-video-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:05:36.287045",
+        "similarity": null
+      }
+    ],
+    "sources_count": 15,
+    "consistency_score": 0.95,
+    "verified_at": "2025-11-29T01:35:55Z",
+    "verified_by": "TruthPulse Engine v2",
+    "id": 4,
+    "original_claim": "Delhi winter vacation from January 1 to 15, 2026",
+    "saved_at": "2025-11-29T01:35:55.357568Z"
+  },
+  {
+    "claim": "Delhi schools closed from December 15, 2025",
+    "verdict": "FALSE",
+    "confidence": 0.99,
+    "rationale": "No credible evidence supports the claim that Delhi schools will be closed from December 15, 2025.",
+    "category": "Education",
+    "evidence": [
+      {
+        "title": "Misreport by Zee News: Showing old video, channel claims Muslim doctors boycotted after Nov 10 Delhi bast",
+        "url": "https://www.altnews.in/zee-news-used-an-old-clipped-video-saying-hindu-boycotting-muslim-doctors-after-delhi-blast/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:06:28.479276",
+        "similarity": null
+      },
+      {
+        "title": "Attack against Muslims in India? No, viral video of woman collapsing is from Bangladesh",
+        "url": "https://www.altnews.in/attack-against-muslims-in-india-no-viral-video-of-woman-collapsing-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:06:28.479276",
+        "similarity": null
+      },
+      {
+        "title": "‘Bangal khali ho raha hai’: Old video from Muslim religious gathering shared as Bangladeshis leaving amid SIR",
+        "url": "https://www.altnews.in/bangal-khali-ho-raha-hai-old-video-from-muslim-religious-gathering-shared-as-bangladeshis-leaving-amid-sir/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:06:28.479276",
+        "similarity": null
+      },
+      {
+        "title": "Lawrence Bishnoi released on bail? No, 2020 video shared falsely",
+        "url": "https://www.altnews.in/lawrence-bishnoi-released-on-bail-no-2020-video-shared-falsely/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:06:28.479276",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of woman claiming she married her father-in-law is scripted",
+        "url": "https://www.altnews.in/viral-video-of-woman-claiming-she-married-her-father-in-law-is-scripted/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:06:28.479276",
+        "similarity": null
+      },
+      {
+        "title": "Gen Z march against ‘vote theft’? No, unrelated video from Jaipur shared with false claims",
+        "url": "https://www.altnews.in/gen-z-march-against-vote-theft-no-unrelated-video-from-jaipur-shared-with-false-claims/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:06:28.479276",
+        "similarity": null
+      },
+      {
+        "title": "Exodus of illegal Bangladeshis from Bengal? No, viral video shows Kali idol immersion crowd in border village",
+        "url": "https://www.altnews.in/exodus-of-illegal-bangladeshis-from-bengal-no-viral-video-shows-kali-idol-immersion-crowd-in-border-village/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:06:28.479276",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of South Africa’s Temba Bavuma responding to Bumrah’s ‘bauna’ jibe is AI-generated",
+        "url": "https://www.altnews.in/viral-video-of-south-africas-temba-bavuma-responding-to-bumrahs-bauna-jibe-is-ai-generated/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:06:28.479276",
+        "similarity": null
+      },
+      {
+        "title": "Protests in Bihar over ‘vote theft’? Zubeen Garg’s funeral procession video falsely viral",
+        "url": "https://www.altnews.in/video-of-singer-zubeen-garg-funeral-procession-shared-as-people-protest-after-bihar-poll-results/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:06:28.479276",
+        "similarity": null
+      },
+      {
+        "title": "Illegal immigrants leaving Bengal? No, viral ferry ghat video is from Bangladesh",
+        "url": "https://www.altnews.in/illegal-immigrants-leaving-bengal-no-viral-ferry-ghat-video-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:06:28.486968",
+        "similarity": null
+      }
+    ],
+    "sources_count": 15,
+    "consistency_score": 0.95,
+    "verified_at": "2025-11-29T01:36:46Z",
+    "verified_by": "TruthPulse Engine v2",
+    "id": 5,
+    "original_claim": "Delhi schools closed from December 15, 2025",
+    "saved_at": "2025-11-29T01:36:46.137412Z"
+  },
+  {
+    "claim": "CBSE Class 10 and 12 board exams 2026 will begin on February 17, 2026",
+    "verdict": "FALSE",
+    "confidence": 0.99,
+    "rationale": "No credible evidence provided to support the claim about CBSE Class 10 and 12 board exams 2026.",
+    "category": "Education",
+    "evidence": [
+      {
+        "title": "Misreport by Zee News: Showing old video, channel claims Muslim doctors boycotted after Nov 10 Delhi bast",
+        "url": "https://www.altnews.in/zee-news-used-an-old-clipped-video-saying-hindu-boycotting-muslim-doctors-after-delhi-blast/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:07:37.988828",
+        "similarity": null
+      },
+      {
+        "title": "Attack against Muslims in India? No, viral video of woman collapsing is from Bangladesh",
+        "url": "https://www.altnews.in/attack-against-muslims-in-india-no-viral-video-of-woman-collapsing-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:07:37.988828",
+        "similarity": null
+      },
+      {
+        "title": "‘Bangal khali ho raha hai’: Old video from Muslim religious gathering shared as Bangladeshis leaving amid SIR",
+        "url": "https://www.altnews.in/bangal-khali-ho-raha-hai-old-video-from-muslim-religious-gathering-shared-as-bangladeshis-leaving-amid-sir/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:07:37.988828",
+        "similarity": null
+      },
+      {
+        "title": "Lawrence Bishnoi released on bail? No, 2020 video shared falsely",
+        "url": "https://www.altnews.in/lawrence-bishnoi-released-on-bail-no-2020-video-shared-falsely/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:07:37.988828",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of woman claiming she married her father-in-law is scripted",
+        "url": "https://www.altnews.in/viral-video-of-woman-claiming-she-married-her-father-in-law-is-scripted/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:07:38.003934",
+        "similarity": null
+      },
+      {
+        "title": "Gen Z march against ‘vote theft’? No, unrelated video from Jaipur shared with false claims",
+        "url": "https://www.altnews.in/gen-z-march-against-vote-theft-no-unrelated-video-from-jaipur-shared-with-false-claims/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:07:38.004813",
+        "similarity": null
+      },
+      {
+        "title": "Exodus of illegal Bangladeshis from Bengal? No, viral video shows Kali idol immersion crowd in border village",
+        "url": "https://www.altnews.in/exodus-of-illegal-bangladeshis-from-bengal-no-viral-video-shows-kali-idol-immersion-crowd-in-border-village/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:07:38.005323",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of South Africa’s Temba Bavuma responding to Bumrah’s ‘bauna’ jibe is AI-generated",
+        "url": "https://www.altnews.in/viral-video-of-south-africas-temba-bavuma-responding-to-bumrahs-bauna-jibe-is-ai-generated/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:07:38.005323",
+        "similarity": null
+      },
+      {
+        "title": "Protests in Bihar over ‘vote theft’? Zubeen Garg’s funeral procession video falsely viral",
+        "url": "https://www.altnews.in/video-of-singer-zubeen-garg-funeral-procession-shared-as-people-protest-after-bihar-poll-results/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:07:38.005323",
+        "similarity": null
+      },
+      {
+        "title": "Illegal immigrants leaving Bengal? No, viral ferry ghat video is from Bangladesh",
+        "url": "https://www.altnews.in/illegal-immigrants-leaving-bengal-no-viral-ferry-ghat-video-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:07:38.005323",
+        "similarity": null
+      }
+    ],
+    "sources_count": 15,
+    "consistency_score": 0.95,
+    "verified_at": "2025-11-29T01:37:55Z",
+    "verified_by": "TruthPulse Engine v2",
+    "id": 6,
+    "original_claim": "CBSE Class 10 and 12 board exams 2026 will begin on February 17, 2026",
+    "saved_at": "2025-11-29T01:37:55.605258Z"
+  },
+  {
+    "claim": "India won the 2023 World Cup",
+    "verdict": "FALSE",
+    "confidence": 0.8,
+    "rationale": "There is no relevant information in the provided evidence to support the claim that India won the 2023 World Cup.",
+    "category": "General",
+    "evidence": [
+      {
+        "title": "Misreport by Zee News: Showing old video, channel claims Muslim doctors boycotted after Nov 10 Delhi bast",
+        "url": "https://www.altnews.in/zee-news-used-an-old-clipped-video-saying-hindu-boycotting-muslim-doctors-after-delhi-blast/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:14:30.481969",
+        "similarity": null
+      },
+      {
+        "title": "Attack against Muslims in India? No, viral video of woman collapsing is from Bangladesh",
+        "url": "https://www.altnews.in/attack-against-muslims-in-india-no-viral-video-of-woman-collapsing-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:14:30.481969",
+        "similarity": null
+      },
+      {
+        "title": "‘Bangal khali ho raha hai’: Old video from Muslim religious gathering shared as Bangladeshis leaving amid SIR",
+        "url": "https://www.altnews.in/bangal-khali-ho-raha-hai-old-video-from-muslim-religious-gathering-shared-as-bangladeshis-leaving-amid-sir/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:14:30.481969",
+        "similarity": null
+      },
+      {
+        "title": "Lawrence Bishnoi released on bail? No, 2020 video shared falsely",
+        "url": "https://www.altnews.in/lawrence-bishnoi-released-on-bail-no-2020-video-shared-falsely/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:14:30.481969",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of woman claiming she married her father-in-law is scripted",
+        "url": "https://www.altnews.in/viral-video-of-woman-claiming-she-married-her-father-in-law-is-scripted/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:14:30.481969",
+        "similarity": null
+      },
+      {
+        "title": "Gen Z march against ‘vote theft’? No, unrelated video from Jaipur shared with false claims",
+        "url": "https://www.altnews.in/gen-z-march-against-vote-theft-no-unrelated-video-from-jaipur-shared-with-false-claims/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:14:30.481969",
+        "similarity": null
+      },
+      {
+        "title": "Exodus of illegal Bangladeshis from Bengal? No, viral video shows Kali idol immersion crowd in border village",
+        "url": "https://www.altnews.in/exodus-of-illegal-bangladeshis-from-bengal-no-viral-video-shows-kali-idol-immersion-crowd-in-border-village/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:14:30.481969",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of South Africa’s Temba Bavuma responding to Bumrah’s ‘bauna’ jibe is AI-generated",
+        "url": "https://www.altnews.in/viral-video-of-south-africas-temba-bavuma-responding-to-bumrahs-bauna-jibe-is-ai-generated/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:14:30.481969",
+        "similarity": null
+      },
+      {
+        "title": "Protests in Bihar over ‘vote theft’? Zubeen Garg’s funeral procession video falsely viral",
+        "url": "https://www.altnews.in/video-of-singer-zubeen-garg-funeral-procession-shared-as-people-protest-after-bihar-poll-results/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:14:30.481969",
+        "similarity": null
+      },
+      {
+        "title": "Illegal immigrants leaving Bengal? No, viral ferry ghat video is from Bangladesh",
+        "url": "https://www.altnews.in/illegal-immigrants-leaving-bengal-no-viral-ferry-ghat-video-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:14:30.481969",
+        "similarity": null
+      }
+    ],
+    "sources_count": 15,
+    "consistency_score": 0.0,
+    "verified_at": "2025-11-29T01:44:46Z",
+    "verified_by": "TruthPulse Engine v2",
+    "id": 7,
+    "original_claim": "India won the 2023 World Cup",
+    "saved_at": "2025-11-29T01:44:46.465385Z"
+  },
+  {
+    "claim": "Delhi winter vacation from January 1 to 15, 2026",
+    "verdict": "FALSE",
+    "confidence": 0.0,
+    "rationale": "There is no relevant information provided to support the claim about Delhi winter vacation from January 1 to 15, 2026.",
+    "category": "General",
+    "evidence": [
+      {
+        "title": "Misreport by Zee News: Showing old video, channel claims Muslim doctors boycotted after Nov 10 Delhi bast",
+        "url": "https://www.altnews.in/zee-news-used-an-old-clipped-video-saying-hindu-boycotting-muslim-doctors-after-delhi-blast/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:15:16.836018",
+        "similarity": null
+      },
+      {
+        "title": "Attack against Muslims in India? No, viral video of woman collapsing is from Bangladesh",
+        "url": "https://www.altnews.in/attack-against-muslims-in-india-no-viral-video-of-woman-collapsing-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:15:16.836018",
+        "similarity": null
+      },
+      {
+        "title": "‘Bangal khali ho raha hai’: Old video from Muslim religious gathering shared as Bangladeshis leaving amid SIR",
+        "url": "https://www.altnews.in/bangal-khali-ho-raha-hai-old-video-from-muslim-religious-gathering-shared-as-bangladeshis-leaving-amid-sir/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:15:16.836018",
+        "similarity": null
+      },
+      {
+        "title": "Lawrence Bishnoi released on bail? No, 2020 video shared falsely",
+        "url": "https://www.altnews.in/lawrence-bishnoi-released-on-bail-no-2020-video-shared-falsely/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:15:16.836018",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of woman claiming she married her father-in-law is scripted",
+        "url": "https://www.altnews.in/viral-video-of-woman-claiming-she-married-her-father-in-law-is-scripted/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:15:16.836018",
+        "similarity": null
+      },
+      {
+        "title": "Gen Z march against ‘vote theft’? No, unrelated video from Jaipur shared with false claims",
+        "url": "https://www.altnews.in/gen-z-march-against-vote-theft-no-unrelated-video-from-jaipur-shared-with-false-claims/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:15:16.836018",
+        "similarity": null
+      },
+      {
+        "title": "Exodus of illegal Bangladeshis from Bengal? No, viral video shows Kali idol immersion crowd in border village",
+        "url": "https://www.altnews.in/exodus-of-illegal-bangladeshis-from-bengal-no-viral-video-shows-kali-idol-immersion-crowd-in-border-village/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:15:16.836018",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of South Africa’s Temba Bavuma responding to Bumrah’s ‘bauna’ jibe is AI-generated",
+        "url": "https://www.altnews.in/viral-video-of-south-africas-temba-bavuma-responding-to-bumrahs-bauna-jibe-is-ai-generated/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:15:16.836018",
+        "similarity": null
+      },
+      {
+        "title": "Protests in Bihar over ‘vote theft’? Zubeen Garg’s funeral procession video falsely viral",
+        "url": "https://www.altnews.in/video-of-singer-zubeen-garg-funeral-procession-shared-as-people-protest-after-bihar-poll-results/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:15:16.836018",
+        "similarity": null
+      },
+      {
+        "title": "Illegal immigrants leaving Bengal? No, viral ferry ghat video is from Bangladesh",
+        "url": "https://www.altnews.in/illegal-immigrants-leaving-bengal-no-viral-ferry-ghat-video-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:15:16.836018",
+        "similarity": null
+      }
+    ],
+    "sources_count": 15,
+    "consistency_score": 0.0,
+    "verified_at": "2025-11-29T01:45:31Z",
+    "verified_by": "TruthPulse Engine v2",
+    "id": 8,
+    "original_claim": "Delhi winter vacation from January 1 to 15, 2026",
+    "saved_at": "2025-11-29T01:45:31.537962Z"
+  },
+  {
+    "claim": "Delhi winter vacation from January 1 to 15, 2026",
+    "verdict": "FALSE",
+    "confidence": 0.99,
+    "rationale": "There is no relevant information in the provided sources to support the claim about Delhi winter vacation dates.",
+    "category": "General",
+    "evidence": [
+      {
+        "title": "Misreport by Zee News: Showing old video, channel claims Muslim doctors boycotted after Nov 10 Delhi bast",
+        "url": "https://www.altnews.in/zee-news-used-an-old-clipped-video-saying-hindu-boycotting-muslim-doctors-after-delhi-blast/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:20:33.263654",
+        "similarity": null
+      },
+      {
+        "title": "Attack against Muslims in India? No, viral video of woman collapsing is from Bangladesh",
+        "url": "https://www.altnews.in/attack-against-muslims-in-india-no-viral-video-of-woman-collapsing-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:20:33.263654",
+        "similarity": null
+      },
+      {
+        "title": "‘Bangal khali ho raha hai’: Old video from Muslim religious gathering shared as Bangladeshis leaving amid SIR",
+        "url": "https://www.altnews.in/bangal-khali-ho-raha-hai-old-video-from-muslim-religious-gathering-shared-as-bangladeshis-leaving-amid-sir/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:20:33.263654",
+        "similarity": null
+      },
+      {
+        "title": "Lawrence Bishnoi released on bail? No, 2020 video shared falsely",
+        "url": "https://www.altnews.in/lawrence-bishnoi-released-on-bail-no-2020-video-shared-falsely/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:20:33.263654",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of woman claiming she married her father-in-law is scripted",
+        "url": "https://www.altnews.in/viral-video-of-woman-claiming-she-married-her-father-in-law-is-scripted/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:20:33.263654",
+        "similarity": null
+      },
+      {
+        "title": "Gen Z march against ‘vote theft’? No, unrelated video from Jaipur shared with false claims",
+        "url": "https://www.altnews.in/gen-z-march-against-vote-theft-no-unrelated-video-from-jaipur-shared-with-false-claims/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:20:33.263654",
+        "similarity": null
+      },
+      {
+        "title": "Exodus of illegal Bangladeshis from Bengal? No, viral video shows Kali idol immersion crowd in border village",
+        "url": "https://www.altnews.in/exodus-of-illegal-bangladeshis-from-bengal-no-viral-video-shows-kali-idol-immersion-crowd-in-border-village/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:20:33.263654",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of South Africa’s Temba Bavuma responding to Bumrah’s ‘bauna’ jibe is AI-generated",
+        "url": "https://www.altnews.in/viral-video-of-south-africas-temba-bavuma-responding-to-bumrahs-bauna-jibe-is-ai-generated/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:20:33.263654",
+        "similarity": null
+      },
+      {
+        "title": "Protests in Bihar over ‘vote theft’? Zubeen Garg’s funeral procession video falsely viral",
+        "url": "https://www.altnews.in/video-of-singer-zubeen-garg-funeral-procession-shared-as-people-protest-after-bihar-poll-results/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:20:33.276471",
+        "similarity": null
+      },
+      {
+        "title": "Illegal immigrants leaving Bengal? No, viral ferry ghat video is from Bangladesh",
+        "url": "https://www.altnews.in/illegal-immigrants-leaving-bengal-no-viral-ferry-ghat-video-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:20:33.276471",
+        "similarity": null
+      }
+    ],
+    "sources_count": 15,
+    "consistency_score": 0.0,
+    "verified_at": "2025-11-29T01:50:47Z",
+    "verified_by": "TruthPulse Engine v2",
+    "id": 9,
+    "original_claim": "Delhi winter vacation from January 1 to 15, 2026",
+    "saved_at": "2025-11-29T01:50:47.050151Z"
+  },
+  {
+    "claim": "Delhi winter vacation from January 1 to 15, 2026",
+    "verdict": "FALSE",
+    "confidence": 0.95,
+    "rationale": "There is no evidence from official government sources or news articles in the provided list to confirm that Delhi winter vacation will be from January 1 to 15, 2026.",
+    "category": "General",
+    "evidence": [
+      {
+        "title": "Misreport by Zee News: Showing old video, channel claims Muslim doctors boycotted after Nov 10 Delhi bast",
+        "url": "https://www.altnews.in/zee-news-used-an-old-clipped-video-saying-hindu-boycotting-muslim-doctors-after-delhi-blast/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:23:26.347739",
+        "similarity": null
+      },
+      {
+        "title": "Attack against Muslims in India? No, viral video of woman collapsing is from Bangladesh",
+        "url": "https://www.altnews.in/attack-against-muslims-in-india-no-viral-video-of-woman-collapsing-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:23:26.347739",
+        "similarity": null
+      },
+      {
+        "title": "‘Bangal khali ho raha hai’: Old video from Muslim religious gathering shared as Bangladeshis leaving amid SIR",
+        "url": "https://www.altnews.in/bangal-khali-ho-raha-hai-old-video-from-muslim-religious-gathering-shared-as-bangladeshis-leaving-amid-sir/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:23:26.347739",
+        "similarity": null
+      },
+      {
+        "title": "Lawrence Bishnoi released on bail? No, 2020 video shared falsely",
+        "url": "https://www.altnews.in/lawrence-bishnoi-released-on-bail-no-2020-video-shared-falsely/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:23:26.347739",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of woman claiming she married her father-in-law is scripted",
+        "url": "https://www.altnews.in/viral-video-of-woman-claiming-she-married-her-father-in-law-is-scripted/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:23:26.347739",
+        "similarity": null
+      },
+      {
+        "title": "Gen Z march against ‘vote theft’? No, unrelated video from Jaipur shared with false claims",
+        "url": "https://www.altnews.in/gen-z-march-against-vote-theft-no-unrelated-video-from-jaipur-shared-with-false-claims/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:23:26.347739",
+        "similarity": null
+      },
+      {
+        "title": "Exodus of illegal Bangladeshis from Bengal? No, viral video shows Kali idol immersion crowd in border village",
+        "url": "https://www.altnews.in/exodus-of-illegal-bangladeshis-from-bengal-no-viral-video-shows-kali-idol-immersion-crowd-in-border-village/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:23:26.347739",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of South Africa’s Temba Bavuma responding to Bumrah’s ‘bauna’ jibe is AI-generated",
+        "url": "https://www.altnews.in/viral-video-of-south-africas-temba-bavuma-responding-to-bumrahs-bauna-jibe-is-ai-generated/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:23:26.347739",
+        "similarity": null
+      },
+      {
+        "title": "Protests in Bihar over ‘vote theft’? Zubeen Garg’s funeral procession video falsely viral",
+        "url": "https://www.altnews.in/video-of-singer-zubeen-garg-funeral-procession-shared-as-people-protest-after-bihar-poll-results/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:23:26.347739",
+        "similarity": null
+      },
+      {
+        "title": "Illegal immigrants leaving Bengal? No, viral ferry ghat video is from Bangladesh",
+        "url": "https://www.altnews.in/illegal-immigrants-leaving-bengal-no-viral-ferry-ghat-video-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:23:26.347739",
+        "similarity": null
+      }
+    ],
+    "sources_count": 20,
+    "consistency_score": 0.0,
+    "verified_at": "2025-11-29T01:53:43Z",
+    "verified_by": "TruthPulse Engine v2",
+    "id": 10,
+    "original_claim": "Delhi winter vacation from January 1 to 15, 2026",
+    "saved_at": "2025-11-29T01:53:43.991142Z"
+  },
+  {
+    "claim": "NEET 2026 will be held in May",
+    "verdict": "FALSE",
+    "confidence": 0.0,
+    "rationale": "There is no evidence from official government sources, such as nta.ac.in or pib.gov.in, in the provided list to confirm that NEET 2026 will be held in May.",
+    "category": "General",
+    "evidence": [
+      {
+        "title": "Misreport by Zee News: Showing old video, channel claims Muslim doctors boycotted after Nov 10 Delhi bast",
+        "url": "https://www.altnews.in/zee-news-used-an-old-clipped-video-saying-hindu-boycotting-muslim-doctors-after-delhi-blast/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:42:08.152282",
+        "similarity": null
+      },
+      {
+        "title": "Attack against Muslims in India? No, viral video of woman collapsing is from Bangladesh",
+        "url": "https://www.altnews.in/attack-against-muslims-in-india-no-viral-video-of-woman-collapsing-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:42:08.152282",
+        "similarity": null
+      },
+      {
+        "title": "‘Bangal khali ho raha hai’: Old video from Muslim religious gathering shared as Bangladeshis leaving amid SIR",
+        "url": "https://www.altnews.in/bangal-khali-ho-raha-hai-old-video-from-muslim-religious-gathering-shared-as-bangladeshis-leaving-amid-sir/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:42:08.152282",
+        "similarity": null
+      },
+      {
+        "title": "Lawrence Bishnoi released on bail? No, 2020 video shared falsely",
+        "url": "https://www.altnews.in/lawrence-bishnoi-released-on-bail-no-2020-video-shared-falsely/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:42:08.153283",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of woman claiming she married her father-in-law is scripted",
+        "url": "https://www.altnews.in/viral-video-of-woman-claiming-she-married-her-father-in-law-is-scripted/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:42:08.153283",
+        "similarity": null
+      },
+      {
+        "title": "Gen Z march against ‘vote theft’? No, unrelated video from Jaipur shared with false claims",
+        "url": "https://www.altnews.in/gen-z-march-against-vote-theft-no-unrelated-video-from-jaipur-shared-with-false-claims/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:42:08.153283",
+        "similarity": null
+      },
+      {
+        "title": "Exodus of illegal Bangladeshis from Bengal? No, viral video shows Kali idol immersion crowd in border village",
+        "url": "https://www.altnews.in/exodus-of-illegal-bangladeshis-from-bengal-no-viral-video-shows-kali-idol-immersion-crowd-in-border-village/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:42:08.153283",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of South Africa’s Temba Bavuma responding to Bumrah’s ‘bauna’ jibe is AI-generated",
+        "url": "https://www.altnews.in/viral-video-of-south-africas-temba-bavuma-responding-to-bumrahs-bauna-jibe-is-ai-generated/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:42:08.153283",
+        "similarity": null
+      },
+      {
+        "title": "Protests in Bihar over ‘vote theft’? Zubeen Garg’s funeral procession video falsely viral",
+        "url": "https://www.altnews.in/video-of-singer-zubeen-garg-funeral-procession-shared-as-people-protest-after-bihar-poll-results/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:42:08.153283",
+        "similarity": null
+      },
+      {
+        "title": "Illegal immigrants leaving Bengal? No, viral ferry ghat video is from Bangladesh",
+        "url": "https://www.altnews.in/illegal-immigrants-leaving-bengal-no-viral-ferry-ghat-video-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:42:08.153283",
+        "similarity": null
+      }
+    ],
+    "sources_count": 20,
+    "consistency_score": 0.0,
+    "verified_at": "2025-11-29T02:12:24Z",
+    "verified_by": "TruthPulse Engine v2",
+    "id": 11,
+    "original_claim": "NEET 2026 will be held in May",
+    "saved_at": "2025-11-29T02:12:24.508910Z"
+  },
+  {
+    "claim": "CBSE Class 12 exams begin February 17, 2026",
+    "verdict": "FALSE",
+    "confidence": 0.0,
+    "rationale": "There is no evidence from official government sources, such as cbse.gov.in, to confirm that the CBSE Class 12 exams will begin on February 17, 2026.",
+    "category": "Education",
+    "evidence": [
+      {
+        "title": "Misreport by Zee News: Showing old video, channel claims Muslim doctors boycotted after Nov 10 Delhi bast",
+        "url": "https://www.altnews.in/zee-news-used-an-old-clipped-video-saying-hindu-boycotting-muslim-doctors-after-delhi-blast/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:45:01.400987",
+        "similarity": null
+      },
+      {
+        "title": "Attack against Muslims in India? No, viral video of woman collapsing is from Bangladesh",
+        "url": "https://www.altnews.in/attack-against-muslims-in-india-no-viral-video-of-woman-collapsing-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:45:01.400987",
+        "similarity": null
+      },
+      {
+        "title": "‘Bangal khali ho raha hai’: Old video from Muslim religious gathering shared as Bangladeshis leaving amid SIR",
+        "url": "https://www.altnews.in/bangal-khali-ho-raha-hai-old-video-from-muslim-religious-gathering-shared-as-bangladeshis-leaving-amid-sir/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:45:01.401984",
+        "similarity": null
+      },
+      {
+        "title": "Lawrence Bishnoi released on bail? No, 2020 video shared falsely",
+        "url": "https://www.altnews.in/lawrence-bishnoi-released-on-bail-no-2020-video-shared-falsely/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:45:01.401984",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of woman claiming she married her father-in-law is scripted",
+        "url": "https://www.altnews.in/viral-video-of-woman-claiming-she-married-her-father-in-law-is-scripted/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:45:01.401984",
+        "similarity": null
+      },
+      {
+        "title": "Gen Z march against ‘vote theft’? No, unrelated video from Jaipur shared with false claims",
+        "url": "https://www.altnews.in/gen-z-march-against-vote-theft-no-unrelated-video-from-jaipur-shared-with-false-claims/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:45:01.401984",
+        "similarity": null
+      },
+      {
+        "title": "Exodus of illegal Bangladeshis from Bengal? No, viral video shows Kali idol immersion crowd in border village",
+        "url": "https://www.altnews.in/exodus-of-illegal-bangladeshis-from-bengal-no-viral-video-shows-kali-idol-immersion-crowd-in-border-village/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:45:01.401984",
+        "similarity": null
+      },
+      {
+        "title": "Viral video of South Africa’s Temba Bavuma responding to Bumrah’s ‘bauna’ jibe is AI-generated",
+        "url": "https://www.altnews.in/viral-video-of-south-africas-temba-bavuma-responding-to-bumrahs-bauna-jibe-is-ai-generated/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:45:01.401984",
+        "similarity": null
+      },
+      {
+        "title": "Protests in Bihar over ‘vote theft’? Zubeen Garg’s funeral procession video falsely viral",
+        "url": "https://www.altnews.in/video-of-singer-zubeen-garg-funeral-procession-shared-as-people-protest-after-bihar-poll-results/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:45:01.401984",
+        "similarity": null
+      },
+      {
+        "title": "Illegal immigrants leaving Bengal? No, viral ferry ghat video is from Bangladesh",
+        "url": "https://www.altnews.in/illegal-immigrants-leaving-bengal-no-viral-ferry-ghat-video-is-from-bangladesh/",
+        "stance": "Neutral",
+        "published": "2025-11-29T07:45:01.401984",
+        "similarity": null
+      }
+    ],
+    "sources_count": 20,
+    "consistency_score": 0.0,
+    "verified_at": "2025-11-29T02:15:14Z",
+    "verified_by": "TruthPulse Engine v2",
+    "id": 12,
+    "original_claim": "CBSE Class 12 exams begin February 17, 2026",
+    "saved_at": "2025-11-29T02:15:14.792839Z"
+  }
+]
