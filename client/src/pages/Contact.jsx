@@ -114,7 +114,7 @@ const Contact = () => {
                 </div>
 
                 <div>
-                  <Link to="" className="flex items-start gap-4">
+                  <Link to="https://github.com/NikitaMulam2005/mumbai_hacks" className="flex items-start gap-4">
                     <div className="rounded-lg bg-blue-500/10 p-3 text-blue-400">
                       <GithubIcon size={24} />
                     </div>
